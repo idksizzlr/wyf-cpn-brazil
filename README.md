@@ -1,13 +1,13 @@
-# WYF Brazil · Projetos de Voluntariado
+# WYF Brazil · Volunteering Projects
 
-Repositório com projetos desenvolvidos durante a atuação como voluntário no **Comitê Nacional Preparatório Brasileiro do World Youth Festival**.
+A collection of projects built during my work as a volunteer at the **Brazilian National Preparatory Committee for the World Youth Festival**.
 
-## Projetos
+## Projects
 
-| Projeto | Descrição | Link |
+| Project | Description | Link |
 |---|---|---|
-| Formulário GT Comunicação | Inscrição e ranking automático de voluntários | [ver](https://idksizzlr.github.io/wyf-cpn-brazil) |
+| GT Comunicação Form | Volunteer registration form with automatic scoring and ranking | [view](https://idksizzlr.github.io/wyf-cpn-brazil) |
 
-## Sobre
+## About
 
-World Youth Festival (WYF) é um evento internacional de juventude. O CPN Brasil é o comitê responsável pela organização nacional da participação brasileira.
+The World Youth Festival (WYF) is an international youth event. The CPN Brazil is the national committee responsible for organizing Brazilian participation.
